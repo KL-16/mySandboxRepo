@@ -1,0 +1,3 @@
+[submodule "mySandboxRepo"]
+	path = mySandboxRepo
+	url = https://github.com/KL-16/mySandboxRepo.git
